@@ -6,13 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info.kaiky@gmail.com)](mailto:info.kaiky@gmail.com)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/kaikysantos/)](https://codepen.io/kaikysantos/)
 
-<br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=KaikySantos&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</details>
-
 <br/>
 
 <details>
