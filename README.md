@@ -1,4 +1,4 @@
-<img align="right" src="img-readme.png" width="400"/>
+<img align="right" src="img-readme.png" width="340"/>
 
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
