@@ -1,9 +1,15 @@
-## Hello! 🤙
+## Hello... 🤙
 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-a?color=green&logo=circleci)](https://kaiky.vercel.app)
+**About me 👨‍💻**
+
+I'm Kaiky Santos, I'm 18 years old and I live in Brazil. I'm currently learning FullStack development (React.js, Node.js) and I'm studying Computer Science at the Federal Institute of Education, Science and Technology of Ceará.
+
+**Some Links 👀**
+
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-a?color=black&logo=circleci)](https://kaiky.vercel.app)
 [![Codepen Badge](https://img.shields.io/badge/codepen-a?logo=codepen&color=black)](https://codepen.io/kaikysantos)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-a?color=green&logo=linkedin)](https://www.linkedin.com/in/kaiky-santos-b8a5781a0/)
-[![Whatsapp Badge](https://img.shields.io/badge/whatsapp-a?color=white&logo=whatsapp)](https://wa.me/+5585991229607)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-a?color=black&logo=linkedin)](https://www.linkedin.com/in/kaiky-santos-b8a5781a0/)
+[![Whatsapp Badge](https://img.shields.io/badge/whatsapp-a?color=black&logo=whatsapp)](https://wa.me/+5585991229607)
 
 **Languages and Tools 🚀**
 
@@ -27,9 +33,8 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 
 <details>
-  <summary> Estatísticas </summary>
+  <summary>My Github Stats</summary>
   <br>
-  
   <table align="center">
     <row>
       <td>
