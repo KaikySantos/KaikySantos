@@ -29,14 +29,16 @@
 <detalhes>
   <summary> Estatísticas </summary>
   <br>
-
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaikySantos&layout=compact&theme=react'>
-    </td>
-    <td>
-      <img height='200' src='https://github-readme-stats.vercel.app/api?username=kaikySantos&show_icons=true&theme=react'>
-    </td>
-  </row>
+  
+  <table align="center">
+    <row>
+      <td>
+       <!-- Card -->
+        <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kaikySantos&layout=compact&theme=react'>
+      </td>
+      <td>
+        <img height='200' src='https://github-readme-stats.vercel.app/api?username=kaikySantos&show_icons=true&theme=react'>
+      </td>
+    </row>
+  </table>
 </details>
